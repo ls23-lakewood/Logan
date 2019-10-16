@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Project: Blog</title>
+        <style>
+          body{
+            background-color:black;
+            font-family:cursive;
+          }
+          h1{
+            color:white;
+            font-weight:bold;
+          }
+          h2{
+            color:white;
+            font-weight:bold;
+          }
+          h3{
+            color:white;
+          }
+          h6{
+            color:white;
+            font-style:italic;
+          }
+          p{
+            color:white;
+          }
+          li{
+            color:white;
+          }
+          .big{
+            font-size:14px;
+          }
+          
+        </style>
+    </head>
+    <body>
+        
+        <h1>Logan's blog</h1>
+
+        <h3>Contents</h3>
+        <ul>
+            <li> <a href="#first">First post!</a></li>
+            <li> <a href="#second">Sadly,My second post!</a></li>
+        </ul>
+        
+        <h2><a name="first">First post</a></h2>
+        <h6>10/14/19</h6>
+        
+        <p><em class="big"> Well, since the school said we can't be contriveral that school.<br>
+          Guess what, I am going against the school. So lets talk about Trump. Well, that was a great talk. Trump Sucks!<br>
+          Lets find some more to have contriversal talk. Trump being Impeached, ok. School being just a waste of time,ok.
+        
+        <h2><a name="second">Sadly, My Second Post</a></h2>
+        <h6>10/14/19, Two minutes later</h6>
+        
+        <p><em class="big">So I am back, I have to do two blog post for this grade. So I am back and hopefully for not long. <br>
+        To be honest, I love this class but I just hate KhanAcademy and CreativeCommons. <br>
+        I really hate Creative Commons. We are going to start a protest to remove Creative Commons off the internet.</em></p>
+    </body>
+</html>
